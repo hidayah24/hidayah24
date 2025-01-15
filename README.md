@@ -1,5 +1,5 @@
  Hi everyone, my name is Taufik Hidayah. <br />
- I'm a student majoring in informatics in Bandung, Indonesia. <br />
+ I'm a fresh graduate majoring in informatics in Bandung, Indonesia. <br />
  I’m so interested in Data Science even though i'm not very good at statistics
  and even so I will continue to study it. <br />
  I’m currently learning many programming languages but from all that i have tried <br />
