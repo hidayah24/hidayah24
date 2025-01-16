@@ -20,7 +20,7 @@ I am a fresh graduate in Informatics with a strong passion for data analysis and
 
 📂 Featured Projects
 1. Data Analyst Project
-Link: [Click Here!](https://hidayah24.github.io)
+Link: [Click Here!](https://github.com/hidayah24/data-analyst-portfolio)
 
 2. Data Science Project
 Link: [Click Here!](https://github.com/hidayah24/data-science)
