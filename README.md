@@ -23,7 +23,7 @@ I am a fresh graduate in Informatics with a strong passion for data analysis and
 Link: [Click Here!](https://hidayah24.github.io)
 
 2. Data Science Project
-Link: [Click Here!](https://hidayah24.github.io)
+Link: [Click Here!]([https://hidayah24.github.io](https://github.com/hidayah24/data-science))
 
 🌐 Connect with Me
 - LinkedIn: [Visit My LinkedIn](https://www.linkedin.com/in/hidayah24)
