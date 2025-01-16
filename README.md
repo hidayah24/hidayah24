@@ -27,7 +27,7 @@ Link: [Click Here!](https://github.com/hidayah24/data-science)
 
 🌐 Connect with Me
 - LinkedIn: [Visit My LinkedIn](https://www.linkedin.com/in/hidayah24)
-- Portfolio: [Visit My Portfolio](https://hidayah24.github.io)
+- Portfolio: [Visit My Portfolio](https://www.taufikhidayah.my.id)
 - Email: contact@taufikhidayah.my.id
 
 Let's connect and explore data together! 🚀
